@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About - Divin IT Blog
-permalink: /about
+title: Impressum - Divin IT Blog
+permalink: /impressum
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
