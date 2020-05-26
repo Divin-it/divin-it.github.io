@@ -3,7 +3,7 @@ layout: post
 title:  "Remote collaboration or WFH"
 author: daniel
 categories: [ Remote collaboration ]
-tags: [ Communication ]
+tags: [ Communication, Tools, Remote Collaboration ]
 image: assets/images/KeyboardSide.jpg
 comments: false
 ---
