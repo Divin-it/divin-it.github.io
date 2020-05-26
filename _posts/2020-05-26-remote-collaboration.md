@@ -3,15 +3,16 @@ layout: post
 title:  "Remote collaboration or WFH"
 author: daniel
 categories: [ Remote collaboration ]
-tags: [ Video Calling, Tools, Communication ]
-image: assets/KeyboardSide.jpg
+tags: [ Communication ]
+image: assets/images/KeyboardSide.jpg
+comments: false
 ---
 
-# Working from Home
 Some of you are already working quite a time now from home or remote together, so the process is not completely new anymore. So yes the Covid-19 outbreak was a big catalyst in regards to digitalization and how we work together.
 
 I am a Scrum Master for two software developer teams. As the company I am working for, has different locations around the world and most of my team members are spread over India, Germany and the US, I was already working in a distributed & remote team for over two years. So from the start as a Scrum Master I had to learn and master supporting a distributed team. Some of these learnings we adapted to help our team and company in these difficult times as now most of our teams are working from home. I want to share with you a couple of these insights, so that they make your life hopefully a little easier.
 
+# Working from Home
 ## Overview
 When I was writing this post I had more and more ideas and topics I wanted to talk about, so I decided to split the post in different parts:
 
